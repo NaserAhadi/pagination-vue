@@ -1,4 +1,5 @@
-# task-prj
+# pagination-project
+In this project I get 5000 records from api by axios and paginate them.
 
 ## Project setup
 ```
